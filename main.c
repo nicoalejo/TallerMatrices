@@ -15,13 +15,6 @@ int main() {
     { 4, 14, 15,  1}
     };
 
-    // int cuadradoB[3][4] = {
-    // {16,  2,  3},
-    // { 5, 11, 10},
-    // { 9,  7,  6},
-    // { 4, 14, 15}
-    // };
-
     printf("Cuadrado Mágico A:\n");
     imprimirCuadrado(3,3,cuadradoA);
 
