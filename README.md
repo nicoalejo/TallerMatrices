@@ -16,10 +16,11 @@ En la función "cuadradoMagico" se debe calcular si la matriz recibida es o no u
 En la función "calcularConstanteMagica" se debe calcular la suma de la primera columna o fila que sirva como referencia para saber si el resto de la matriz es mágica o no. La función retorna la suma de la primera fila o columna.
 
 La función "imprimirCuadrado" debe imprimir la matriz en la siguiente forma:
-Cuadrado Mágico A:
+```
 2 7 6
 9 5 1
 4 3 8
+```
 Esta no tiene ningun parámetro de retorno.
 
 ## Entrega
